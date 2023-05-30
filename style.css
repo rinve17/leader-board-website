@@ -1,0 +1,108 @@
+body{
+    background-color: #f3f1ff;
+}
+.brand-logo{
+    width: 30px;
+}
+.navbar .container-fluid .collapse ul li a {
+    color: white;
+}
+.container-fluid{
+    width: 1000px;
+    margin: auto;
+}
+
+.top-player, .lates-course{
+    background-color: white;
+    margin-top: 15px;
+    padding: 40px;
+}
+
+.top-class{
+    color: blueviolet;
+    margin-bottom: 25px;
+}
+.player img{
+    width: 55px;
+}
+.player-name{
+    padding: 15px;
+    margin-bottom: 5px;
+}
+.player{
+    margin-bottom: 10px;
+}
+.blog-images{
+    width: 210px;
+    margin-bottom: 15px;
+}
+span{
+    color: blue;
+}
+.part-two{
+    margin-top: 25px;
+    border-top: 1px solid #dbc6c6;
+}
+
+.top-blog{margin-top: 30px;}
+
+.lates-course{
+
+}
+
+.course-images{
+    width: 271px;
+}
+.coursers-name{
+    color: red;
+    margin-left: 5px;
+}
+
+.logo{margin-left: 5px;}
+
+.logo img{
+    width: 17px;
+    margin-top: -7px;
+}
+h5{
+    color: gray;
+    display: inline;
+    padding: 10px;
+}
+.timing{
+    background-color: #ffe4e8;
+    display: inline;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin-left: -3px;
+}
+.timing img{
+    width: 21px;
+    margin-bottom: -3px;
+}
+.timing h5{
+    color: rgb(236, 41, 74);
+    margin-left: -6px;
+    font-size: 15px;
+}
+
+.card{
+    box-shadow: 1px 1px 30px #d7d1d1;
+    padding: 12px;
+    border-radius: 20px;
+    margin-right: 14px;
+    width: 300px;
+}
+.card h4{
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.lates-course .footer{
+    color: gray;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 62px;
+}
